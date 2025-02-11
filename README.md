@@ -1,3 +1,7 @@
+## 👋 Hey there, I'm S Monish Kumar!
+
+# 🚀 Aspiring Developer | Computer Science Engineering Student
+
 # 📌 About Me:
 🏫 Computer Science Student at SJCE Mysuru<br>
 💻 Passionate about AI, Cybersecurity, and Open Source Development<br>
@@ -6,7 +10,7 @@
 🤝Open for collaborating on interesting projects
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monish__ks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-monish-kumar-413b7931b/) 
 
 # 💻 Tech Stack:
