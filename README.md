@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=smonishkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![Github Streak](https://github-readme-streak-stats-smonishkumar.vercel.app)<br/><br/>
+[![GitHub Streak](https://github-readme-streak-stats-smk.vercel.app?user=smonishkumar&theme=dark)](https://git.io/streak-stats)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smonishkumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
