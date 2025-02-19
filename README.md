@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm S Monish Kumar!
 
-## 🚀 Aspiring Developer | Computer Science Engineering Student
+## 🚀 Aspiring Developer | Student | Tech Enthusiast
 
 ## 📌 About Me:
-🏫 Computer Science Student at SJCE Mysuru<br>
+🏫 Computer Science Engineering Student at SJCE Mysuru<br>
 💻 Passionate about AI, Cybersecurity, and Open Source Development<br>
 📚 Currently learning C++, Python, and Web Development<br>
 🏆 Aspiring to become a skilled software developer<br>
